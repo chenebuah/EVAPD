@@ -1,5 +1,12 @@
+# CONTRIBUTORS: * Ericsson Chenebuah, Michel Nganbe and Alain Tchagang 
+# Department of Mechanical Engineering, University of Ottawa, 75 Laurier Ave. East, Ottawa, ON, K1N 6N5 Canada
+# Digital Technologies Research Centre, National Research Council of Canada, 1200 Montréal Road, Ottawa, ON, K1A 0R6 Canada
+# * email: echen013@uottawa.ca 
+# (June-2023)
+
 ## THIS SOURCE CODE DEVELOPS THE INPUT IMAGE FROM SCRATCH FOR ALL INVESTIGATED PEROVSKITE STOICHIOMETRIES
-## THE CODE MUST BE EXECUTED ALONG-SIDE THE DATA (SPREADSHEETS) IN THE SAME DIRECTORY.
+
+# Please note that code must be executed alongside all relevant spreadsheet data in the same file directory.
 
 
 import pandas as pd
