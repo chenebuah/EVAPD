@@ -1,3 +1,9 @@
+# CONTRIBUTORS: * Ericsson Chenebuah, Michel Nganbe and Alain Tchagang 
+# Department of Mechanical Engineering, University of Ottawa, 75 Laurier Ave. East, Ottawa, ON, K1N 6N5 Canada
+# Digital Technologies Research Centre, National Research Council of Canada, 1200 Montréal Road, Ottawa, ON, K1A 0R6 Canada
+# * email: echen013@uottawa.ca 
+# (June-2023)
+
 # Convolutional Neural Netowrks for feedbacking 'GA-Similarity.py' fitness functions.
 # The network architectures are the same for predicting energy above convex hull (Ehull) values and classifying ICSD labels. 
 # However, modifications must be made at the output (final) dense layer and '.compile' to ensure the activation and loss functions correspond to the actual prediction/classification process. 
