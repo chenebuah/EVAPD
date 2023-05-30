@@ -2,4 +2,4 @@
 A deep evolutionary learning framework for discovering stable and synthesizable energy (perovskite) materials.
 
 
-![image](https://github.com/chenebuah/EVAPD/assets/74286898/42ed5362-3a7b-4ea7-8330-37dacb232096)
+![Untitled](https://github.com/chenebuah/EVAPD/assets/74286898/f8b2a0d9-e4a1-4f0c-ae76-bcd7195173d6)
