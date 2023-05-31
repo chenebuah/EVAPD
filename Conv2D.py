@@ -4,7 +4,7 @@
 # * email: echen013@uottawa.ca 
 # (June-2023)
 
-# Convolutional Neural Netowrks for feedbacking 'GA-Similarity.py' fitness functions.
+# 2D Convolutional Neural Netowrks (Conv2D) for feedbacking 'GA-Similarity.py' fitness functions.
 # The network architectures are the same for predicting energy above convex hull (Ehull) values and classifying ICSD labels. 
 # However, modifications must be made at the output (final) dense layer and '.compile' to ensure the activation and loss functions correspond to the actual prediction/classification process. 
 
