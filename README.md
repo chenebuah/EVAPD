@@ -1,5 +1,6 @@
 # EVAPD
-A deep evolutionary learning framework for discovering stable and synthesizable perovskite (energy) materials.
+# A deep evolutionary learning framework for discovering stable and synthesizable perovskite (energy) materials.
+
 
 Authors: *Ericsson Tetteh Chenebuah, Michel Nganbe and Alain Beaudelaire Tchagang
 
