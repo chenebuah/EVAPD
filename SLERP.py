@@ -4,7 +4,8 @@
 # * email: echen013@uottawa.ca 
 # (June-2023)
 
-# Sampling: Spherical Linear Interpolation (SLERP)
+# Sampling: Spherical Linear Interpolation (SLERP).
+
 from numpy import linspace
 import numpy as np
 
