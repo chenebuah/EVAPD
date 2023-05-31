@@ -5,7 +5,7 @@
 # (June-2023)
 
 
-# Genetic Algorithm and Similarity Analytical Model.
+# Genetic Algorithm and similarity analytical modeling on geometrical coordination.
 
 # ! pip install pygad 
 # Source: Gad, A. F. (2021). PyGAD: An Intuitive Genetic Algorithm Python Library. arXiv:2106.06158v1 [cs.NE]. doi:10.48550/arXiv.2106.06158 
