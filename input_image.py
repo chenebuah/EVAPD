@@ -4,7 +4,7 @@
 # * email: echen013@uottawa.ca 
 # (June-2023)
 
-## THIS SOURCE CODE DEVELOPS THE INPUT IMAGE FROM SCRATCH FOR ALL INVESTIGATED PEROVSKITE STOICHIOMETRIES
+## THIS SOURCE CODE DEVELOPS THE INPUT IMAGE FROM SCRATCH FOR ALL INVESTIGATED PEROVSKITE STOICHIOMETRIES.
 
 # Please note that code must be executed alongside all relevant spreadsheet data in the same file directory.
 
