@@ -13,7 +13,7 @@ Digital Technologies Research Centre, National Research Council of Canada, 1200 
 
 ### Citing
 
-If you are using this resource please cite as:
+If you are using this resource, please cite as:
 ```latex
 @ARTICLE{10.3389/fmats.2023.1233961,
 AUTHOR={Chenebuah, Ericsson Tetteh and Nganbe, Michel and Tchagang, Alain Beaudelaire},   
